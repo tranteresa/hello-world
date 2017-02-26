@@ -1,6 +1,6 @@
 # hello-world
 
 Greetings! 
-My name is Teresa, looking to learn more about coding and create cool projects. 
+My name is Teresa, looking to learn more about coding and combine that with product knowledge to create cool projects.
 Based in California. 
-I love sushi and tacos. 
+Love love love sushi and tacos. 
